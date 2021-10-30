@@ -1,9 +1,9 @@
 # pro-short-link-opencart
 PRO Short Link
 
-## Library usage
+## Use as library
 
-You can call library methods to create short links from the code. Use this snippet as example:
+You can call module methods to create short links from the code. Use this snippet as example:
 
 ```php
 $this->load->model('extension/model/pro_short_link');
