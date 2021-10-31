@@ -1,4 +1,8 @@
 # pro-short-link-opencart
+
+[![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/pro-short-link-opencart)](https://github.com/brokeyourbike/pro-short-link-opencart/releases)
+![GitHub all releases](https://img.shields.io/github/downloads/brokeyourbike/pro-short-link-opencart/total?color=blue)
+
 PRO Short Link
 
 ## Use as library
